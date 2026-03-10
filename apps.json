@@ -47,5 +47,12 @@
     "appPackageName": "org.fdroid.fdroid",
     "appLink": "https://f-droid.org/F-Droid.apk",
     "appIcon": "https://f-droid.org/repo/org.fdroid.fdroid/en-US/icon_0slNR8J9edqDZDoyWABFZrqQONU9EyiNVwM6B3Jui_Q=.png"
+  },
+  {
+    "appName": "YouTube",
+    "appVersion": "21.10.493",
+    "appPackageName": "com.google.android.youtube",
+    "appLink": "https://d.apkpure.com/b/APK/com.google.android.youtube?versionCode=1561059340",
+    "appIcon": "https://cdn.simpleicons.org/youtube"
   }
 ]
